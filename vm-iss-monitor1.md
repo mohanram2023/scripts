@@ -1,5 +1,4 @@
-Windows VM is up and running with IIS installed**, you're ready to start collecting IIS logs into your **Log Analytics Workspace**. 
----
+
 
 ## 🚀 Step-by-Step: Connect IIS Logs to Log Analytics Workspace
 
