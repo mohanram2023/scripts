@@ -98,6 +98,3 @@ resource "azapi_resource" "dcr_assignment" {
 - Use **remote state** (e.g., Azure Storage) for team collaboration.
 - Consider using **Terraform Cloud** or **Azure DevOps Pipelines** for CI/CD.
 
----
-
-Would you like me to help you build a complete `.tf` file or integrate this into a pipeline? You're on the edge of full automation!
